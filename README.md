@@ -5,7 +5,7 @@ Back-End enthusiast
 I am a medical student with a strong interest in digital health and health technology, with a current focus on back-end development. I’m enthusiastic about integrating technology into healthcare and exploring ways backend solutions can enhance medical practice
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [emmaplockey123@gmail.com](mailto:emmaplockey123@gmail.com)
-* 🧠  I'm learning SQL
+* 🧠  I'm currently learning SQL
 * 🤝  I'm open to collaborating on projects
 * ⚡  Outside of my academic and technical pursuits, I’m passionate about music and play keyboard for the Tamale Youth Choir and my local church.
 
