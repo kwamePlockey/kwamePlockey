@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel Plockey
 ========================================================================================================================================
-Back-End enthusiast
+Tech enthusiast (Backend/Data).
 -------------------
 I am a medical student with a strong interest in digital health and health technology, with a current focus on back-end development. I’m enthusiastic about integrating technology into healthcare and exploring ways backend solutions can enhance medical practice
 * 🌍  I'm based in Ghana
